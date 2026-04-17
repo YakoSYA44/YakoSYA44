@@ -20,11 +20,9 @@ Selam, ben Yakup. 15 yaşındayım ve öğrenciyim. Gelecekte yazılım mühendi
 
 ## Projects
 
-### HAAAL Forum
+### H**** Forum
 
 Okul projem olan sosyal platform.
-
-[View Project](haaal.qzz.io)
 
 ---
 
@@ -58,7 +56,5 @@ Oyun projelerim (Python ile geliştirdiğim bir silah oyunu dahil).
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YakoSYA44&theme=merko" alt="GitHub Streak" />
 
-## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YakoSYA44" alt="trophy" />
 
