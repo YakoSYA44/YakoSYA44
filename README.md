@@ -1,4 +1,7 @@
-<h2 align="left"></h2>
+<h2 align="left"># Selam, ben Yakup 👋<br><br><p align="left"><br><img src="https://komarev.com/ghpvc/?username=yakupgumus&label=Profil%20Görüntülenme&color=blue&style=flat" alt="yakupgumus" /><br></p><br><br>Yazılım dünyasında **Frontend Developer** olarak kendimi geliştiriyor ve projeler üretiyorum. Boş zamanlarımda şarkı sözleri yazıyor ve bunları YouTube kanalımda paylaşıyorum.<br><br>
+### 🚀 Aktif Projelerim<br>- **HAAAL Forum:** Okulum için geliştirdiğim sosyal etkileşim platformu.<br>- **SYA Chat:** Real-time mesajlaşma uygulaması.<br>- **SYA Bank:** Finansal arayüz ve sistem çalışması.<br>- **SYA Games:** Oyun projelerimin toplandığı merkez.<br>  - *Öne Çıkan:* Python ile geliştirdiğim bir silah oyunu.<br><br>
+### 🛠️ Teknolojiler<br><p align="left"><br>  <a href="https://skillicons.dev"><br>    <img src="https://skillicons.dev/icons?i=js,html,css,py,nodejs,firebase,mongodb,tailwind" /><br>  </a><br></p><br><br>
+### 📊 GitHub İstatistiklerim<br><p align="left"><br><img src="https://github-readme-stats.vercel.app/api?username=yakupgumus&show_icons=true&locale=tr&theme=tokyonight" alt="yakupgumus" /><br></p></h2>
 
 ###
 
