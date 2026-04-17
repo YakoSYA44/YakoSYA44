@@ -1,4 +1,4 @@
-# Merhaba 👋, I'm Yakup
+# Merhaba 👋, Ben Yakup
 ### Songwriter | Frontend Developer
 
 Selam, ben Yakup. 15 yaşındayım ve öğrenciyim. Gelecekte yazılım mühendisi olmayı hedefliyorum.
